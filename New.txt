@@ -5,3 +5,6 @@ lets get a badge
 hello
 
 badge
+
+
+latent
